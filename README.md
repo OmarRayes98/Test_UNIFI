@@ -32,3 +32,7 @@ like write domain , and get any error from any api to inoke toast of error
   Notes :
   - I could not see any apis to get filter for range of dates .
   - I could see an Api to filter by Serial number but It was always response empty results !
+
+  Suggestions for Future  :
+  -use Skeleton Loading instead of Sppiner to have great view 
+  
