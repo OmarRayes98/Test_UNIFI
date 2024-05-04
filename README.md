@@ -27,4 +27,8 @@ like write domain , and get any error from any api to inoke toast of error
 - Toast library for notifications
 - Pure Css with css varibals (root)
 - react-paginations
-  
+
+
+  Notes :
+  - I could not see any apis to get filter for range of dates .
+  - I could see an Api to filter by Serial number but It was always response empty results !
